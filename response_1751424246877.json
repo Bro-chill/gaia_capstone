@@ -1,0 +1,514 @@
+{
+  "success": true,
+  "message": "Script analysis completed successfully",
+  "optimization_info": {
+    "actual_calls_used": 2,
+    "expected_calls": 2
+  },
+  "metadata": {
+    "filename": "PSA PENJAGAAN HARTA INTELEK.pdf",
+    "file_size_bytes": 4676,
+    "processing_time_seconds": 18.21,
+    "timestamp": "2025-07-02T10:43:07.199243",
+    "api_calls_used": 2
+  },
+  "data": {
+    "comprehensive_analysis": {
+      "script_data": {
+        "scenes": [
+          {
+            "scene_number": 1,
+            "scene_header": "INT.HOUSE - DAY",
+            "time_of_day": "DAY",
+            "scene_type": "INT",
+            "characters_present": [
+              "SYAMIL(5)",
+              "ALIYA(27)"
+            ],
+            "props_mentioned": [
+              "keyboard",
+              "home camera"
+            ],
+            "location": "HOUSE",
+            "dialogue_lines": [
+              "MAMA: Syamil..Syamil buat apa tu?",
+              "SYAMIL: Syamil nak buat lagu untuk mama.",
+              "SYAMIL: Mama!! Mama!! bangun la mama. Mama bangun laa."
+            ],
+            "action_lines": [
+              "INSERT FLASHBACK",
+              "SYAMIL(5)playing the keyboard in his room alone. His mother ALIYA(27) picks up a home camera and records him playing. When asked what he’s doing, Syamil replies that he is writing a song for his mother, so that she could get better.",
+              "Aliya stops for a moment before fainting due to her disease. Syamil quicly run towards her, shouting her name.",
+              "END FLASHBACK"
+            ],
+            "estimated_pages": 1,
+            "special_requirements": []
+          },
+          {
+            "scene_number": 2,
+            "scene_header": "INT.BEDROOM - DAY",
+            "time_of_day": "DAY",
+            "scene_type": "INT",
+            "characters_present": [
+              "SYAMIL(20)",
+              "MR AZMIL(45)"
+            ],
+            "props_mentioned": [
+              "laptop"
+            ],
+            "location": "BEDROOM",
+            "dialogue_lines": [
+              "SYAMIL (V/O): Aku Syamil,muzik diibaratkan makanan yang selalu aku santap,tanpa jemu dan berputus asa,sentiasa aku memperbaiki dan mencipta lagu-lagu baru untuk membanggakan arwah mama yang selalu memberi aku semangat dalam seni muzik ini.",
+              "MR AZMIL: Hello! Selamat tengahari. Ini Syamil ke?",
+              "SYAMIL: Ye saya. Kenapa ye?",
+              "MR AZMIL: Saya En. Azmil. Producer dari Up RECORDS. Saya dah dengar demo yang awak hantar hari itu dan saya sebenarnya berminat untuk dengar full song dari awak. Boleh tak kita berjumpa?",
+              "SYAMIL: Ouh! Terima kasih En. Azmi. Bila-bila masa yang En Azmil mahu saya datang,saya akan datang.",
+              "MR AZMIL: Ok bagus. Nanti kita berjumpa ."
+            ],
+            "action_lines": [
+              "SYAMIL(20)is in his bedrooms recording the final version of his song. After all these years, the song he created in his mother’s memory is finally complete.",
+              "He sends his demo of the song to a music company in his laptop, in search of a producer.",
+              "A few days later, a music producer, MR AZMIL (45) calls him and asks him for a meeting to hear the full song because he intends to produce it."
+            ],
+            "estimated_pages": 1,
+            "special_requirements": []
+          },
+          {
+            "scene_number": 3,
+            "scene_header": "INT. CAFE - DAY",
+            "time_of_day": "DAY",
+            "scene_type": "INT",
+            "characters_present": [
+              "SYAMIL(20)",
+              "MR AZMIL(45)"
+            ],
+            "props_mentioned": [
+              "laptop",
+              "pendrive"
+            ],
+            "location": "CAFE",
+            "dialogue_lines": [
+              "MR AZMIL: Saya minta maaf Syamil. Saya sebenarnya tidak berminat dengan muzik awak."
+            ],
+            "action_lines": [
+              "Syamil meets up with Mr. Azmil and opens up the laptop to hear the full song. When Mr. Azmil is listening to the song, Syamil excuses himself to go to the bathroom.",
+              "When Syamil is in the bathroom, Mr Azmil copies the song onto his pendrive and hides it in his pocket. When Syamil returns, Mr. Azmil apologies but he’s not interested.",
+              "Syamil returns to his home,sad and dejected."
+            ],
+            "estimated_pages": 1,
+            "special_requirements": []
+          },
+          {
+            "scene_number": 4,
+            "scene_header": "INT.HOUSE - DAY",
+            "time_of_day": "DAY",
+            "scene_type": "INT",
+            "characters_present": [
+              "SYAMIL(20)",
+              "RADI(20)"
+            ],
+            "props_mentioned": [
+              "television"
+            ],
+            "location": "HOUSE",
+            "dialogue_lines": [
+              "RADI: Syamil.. Syamil. Aku rasa ni lagu kau. Muzik dia sama macam muzik kau."
+            ],
+            "action_lines": [
+              "Syamil is in the house with his friends, RADI(20). They are watching television together in the . After that Radi realize that one of the artist’s song has the same sound like Syamil’s song. Syamil come and get Radi.",
+              "The screen shown a new artist singing a new song that have same sounds like Syamil’s song. Syamil shocked and turn around. He then cried and look up at the ceiling."
+            ],
+            "estimated_pages": 1,
+            "special_requirements": []
+          },
+          {
+            "scene_number": 5,
+            "scene_header": "INT.STUDIO - DAY",
+            "time_of_day": "DAY",
+            "scene_type": "INT",
+            "characters_present": [
+              "MR AZMIL(45)"
+            ],
+            "props_mentioned": [
+              "pendrive",
+              "cigarette",
+              "money"
+            ],
+            "location": "STUDIO",
+            "dialogue_lines": [],
+            "action_lines": [
+              "MR Azmil having a cigarette. He take some money and throw it away.He laughing while listening to the music.Close up to the pendrive that Mr. Azmil stole from Syamil a few days ago."
+            ],
+            "estimated_pages": 1,
+            "special_requirements": []
+          }
+        ],
+        "total_characters": [
+          "SYAMIL",
+          "ALIYA",
+          "MR AZMIL",
+          "RADI"
+        ],
+        "total_locations": [
+          "HOUSE",
+          "BEDROOM",
+          "CAFE",
+          "STUDIO"
+        ],
+        "total_pages": 6,
+        "total_words": 500,
+        "languages": [
+          "Malay"
+        ]
+      },
+      "cast_breakdown": {
+        "scene_characters": [
+          {
+            "scene_number": 1,
+            "characters_in_scene": [
+              "SYAMIL(5)",
+              "ALIYA(27)"
+            ],
+            "character_interactions": [
+              "Mother-son interaction",
+              "Flashback showing their relationship"
+            ],
+            "dialogue_complexity": "Simple",
+            "emotional_beats": [
+              "Love",
+              "Concern",
+              "Fainting",
+              "Fear"
+            ]
+          },
+          {
+            "scene_number": 2,
+            "characters_in_scene": [
+              "SYAMIL(20)",
+              "MR AZMIL(45)"
+            ],
+            "character_interactions": [
+              "Syamil sends his demo",
+              "Azmil calls Syamil"
+            ],
+            "dialogue_complexity": "Moderate",
+            "emotional_beats": [
+              "Hope",
+              "Excitement"
+            ]
+          },
+          {
+            "scene_number": 3,
+            "characters_in_scene": [
+              "SYAMIL(20)",
+              "MR AZMIL(45)"
+            ],
+            "character_interactions": [
+              "Syamil meets Mr. Azmil",
+              "Mr. Azmil steals the song"
+            ],
+            "dialogue_complexity": "Moderate",
+            "emotional_beats": [
+              "Trust",
+              "Deception",
+              "Rejection"
+            ]
+          },
+          {
+            "scene_number": 4,
+            "characters_in_scene": [
+              "SYAMIL(20)",
+              "RADI(20)"
+            ],
+            "character_interactions": [
+              "Friends watching TV",
+              "Radi discovers the stolen song"
+            ],
+            "dialogue_complexity": "Simple",
+            "emotional_beats": [
+              "Shock",
+              "Betrayal",
+              "Despair"
+            ]
+          },
+          {
+            "scene_number": 5,
+            "characters_in_scene": [
+              "MR AZMIL(45)"
+            ],
+            "character_interactions": [
+              "Azmil enjoys his success",
+              "close up on stolen pendrive"
+            ],
+            "dialogue_complexity": "None",
+            "emotional_beats": [
+              "Greed",
+              "Triumph"
+            ]
+          }
+        ],
+        "main_characters": [
+          "SYAMIL: A young musician whose song is stolen."
+        ],
+        "supporting_characters": [
+          "ALIYA: Syamil's mother",
+          "RADI: Syamil's friend"
+        ],
+        "character_scene_count": [
+          "SYAMIL(5): 1",
+          "ALIYA(27): 1",
+          "SYAMIL(20): 4",
+          "MR AZMIL(45): 3",
+          "RADI(20): 1"
+        ],
+        "casting_requirements": [
+          "SYAMIL(5): A young, innocent boy.",
+          "ALIYA(27): Syamil's mother, kind and loving.",
+          "SYAMIL(20): A passionate young musician.",
+          "MR AZMIL(45): A deceitful music producer.",
+          "RADI(20): Syamil's supportive friend."
+        ]
+      },
+      "cost_breakdown": {
+        "scene_costs": [
+          {
+            "scene_number": 1,
+            "cast_cost": 200,
+            "location_cost": 50,
+            "props_cost": 20,
+            "wardrobe_cost": 30,
+            "crew_cost": 150,
+            "equipment_cost": 100,
+            "total_scene_cost": 550
+          },
+          {
+            "scene_number": 2,
+            "cast_cost": 200,
+            "location_cost": 0,
+            "props_cost": 10,
+            "wardrobe_cost": 20,
+            "crew_cost": 150,
+            "equipment_cost": 100,
+            "total_scene_cost": 480
+          },
+          {
+            "scene_number": 3,
+            "cast_cost": 200,
+            "location_cost": 50,
+            "props_cost": 10,
+            "wardrobe_cost": 20,
+            "crew_cost": 150,
+            "equipment_cost": 100,
+            "total_scene_cost": 530
+          },
+          {
+            "scene_number": 4,
+            "cast_cost": 200,
+            "location_cost": 0,
+            "props_cost": 10,
+            "wardrobe_cost": 20,
+            "crew_cost": 150,
+            "equipment_cost": 100,
+            "total_scene_cost": 480
+          },
+          {
+            "scene_number": 5,
+            "cast_cost": 100,
+            "location_cost": 0,
+            "props_cost": 5,
+            "wardrobe_cost": 10,
+            "crew_cost": 100,
+            "equipment_cost": 50,
+            "total_scene_cost": 265
+          }
+        ],
+        "total_costs": 2305,
+        "total_cast_costs": 900,
+        "total_location_costs": 100,
+        "total_props_costs": 55,
+        "total_wardrobe_costs": 100,
+        "total_crew_costs": 700,
+        "total_equipment_costs": 450,
+        "budget_category": "Low"
+      },
+      "location_breakdown": {
+        "scene_locations": [
+          {
+            "scene_number": 1,
+            "location_name": "HOUSE",
+            "location_type": "INT",
+            "time_of_day": "DAY",
+            "setup_complexity": "Simple",
+            "permit_needed": false,
+            "estimated_setup_time": 30,
+            "accessibility": "Easy"
+          },
+          {
+            "scene_number": 2,
+            "location_name": "BEDROOM",
+            "location_type": "INT",
+            "time_of_day": "DAY",
+            "setup_complexity": "Simple",
+            "permit_needed": false,
+            "estimated_setup_time": 30,
+            "accessibility": "Easy"
+          },
+          {
+            "scene_number": 3,
+            "location_name": "CAFE",
+            "location_type": "INT",
+            "time_of_day": "DAY",
+            "setup_complexity": "Moderate",
+            "permit_needed": true,
+            "estimated_setup_time": 60,
+            "accessibility": "Moderate"
+          },
+          {
+            "scene_number": 4,
+            "location_name": "HOUSE",
+            "location_type": "INT",
+            "time_of_day": "DAY",
+            "setup_complexity": "Simple",
+            "permit_needed": false,
+            "estimated_setup_time": 30,
+            "accessibility": "Easy"
+          },
+          {
+            "scene_number": 5,
+            "location_name": "STUDIO",
+            "location_type": "INT",
+            "time_of_day": "DAY",
+            "setup_complexity": "Moderate",
+            "permit_needed": false,
+            "estimated_setup_time": 60,
+            "accessibility": "Moderate"
+          }
+        ],
+        "unique_locations": [
+          "HOUSE",
+          "BEDROOM",
+          "CAFE",
+          "STUDIO"
+        ],
+        "locations_by_type": [
+          "INT. HOUSE",
+          "INT. BEDROOM",
+          "INT. CAFE",
+          "INT. STUDIO"
+        ],
+        "location_shooting_groups": [
+          "Group 1: HOUSE (INT), BEDROOM (INT)",
+          "Group 2: CAFE (INT)",
+          "Group 3: STUDIO (INT)"
+        ],
+        "permit_requirements": [
+          "CAFE: Filming permit likely required."
+        ],
+        "total_location_days": 5
+      },
+      "props_breakdown": {
+        "scene_props": [
+          {
+            "scene_number": 1,
+            "props_needed": [
+              "Keyboard",
+              "Home camera"
+            ],
+            "costume_requirements": [
+              "Simple child clothing",
+              "Casual wear"
+            ],
+            "set_decoration": [],
+            "prop_complexity": "Simple",
+            "special_effects_props": []
+          },
+          {
+            "scene_number": 2,
+            "props_needed": [
+              "Laptop"
+            ],
+            "costume_requirements": [
+              "Casual modern clothing"
+            ],
+            "set_decoration": [],
+            "prop_complexity": "Simple",
+            "special_effects_props": []
+          },
+          {
+            "scene_number": 3,
+            "props_needed": [
+              "Laptop"
+            ],
+            "costume_requirements": [
+              "Casual modern clothing",
+              "Professional attire"
+            ],
+            "set_decoration": [],
+            "prop_complexity": "Simple",
+            "special_effects_props": []
+          },
+          {
+            "scene_number": 4,
+            "props_needed": [
+              "Television"
+            ],
+            "costume_requirements": [
+              "Casual modern clothing"
+            ],
+            "set_decoration": [],
+            "prop_complexity": "Simple",
+            "special_effects_props": []
+          },
+          {
+            "scene_number": 5,
+            "props_needed": [
+              "Cigarette",
+              "Money",
+              "Pendrive"
+            ],
+            "costume_requirements": [
+              "Professional attire"
+            ],
+            "set_decoration": [],
+            "prop_complexity": "Simple",
+            "special_effects_props": []
+          }
+        ],
+        "master_props_list": [
+          "Keyboard",
+          "Home camera",
+          "Laptop",
+          "Pendrive",
+          "Television",
+          "Cigarette",
+          "Money"
+        ],
+        "props_by_category": [
+          "Electronics: Keyboard, Home camera, Laptop, Pendrive, Television",
+          "Personal Items: Cigarette, Money"
+        ],
+        "costume_by_character": [
+          "SYAMIL(5): Simple child clothing",
+          "ALIYA(27): Casual wear",
+          "SYAMIL(20): Casual modern clothing",
+          "MR AZMIL(45): Professional attire",
+          "RADI(20): Casual modern clothing"
+        ],
+        "prop_budget_estimate": "Low",
+        "rental_vs_purchase": [
+          "Keyboard, Home camera, Laptop, Television: Rental",
+          "Pendrive, Cigarette, Money: Purchase"
+        ]
+      }
+    },
+    "pdf_path": "C:\\Users\\admin\\AppData\\Local\\Temp\\tmpeh6vkusw.pdf",
+    "feedback_required": false,
+    "feedback_text": "",
+    "status": "completed",
+    "errors": [],
+    "api_calls_used": 2,
+    "processing_start_time": "2025-07-02T10:42:48.993989",
+    "processing_end_time": "2025-07-02T10:43:07.199243",
+    "total_processing_time": 18.209312677383423
+  }
+}
